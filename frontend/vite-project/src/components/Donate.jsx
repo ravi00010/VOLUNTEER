@@ -12,7 +12,7 @@ const Donate = () => {
     };
 
     return (
-        <section className="donate">
+         <section className="donate">
         <form onSubmit={handleCheckout}>
           <div>
             <img src="/logo.png" alt="logo" />
